@@ -15,10 +15,34 @@
 	z-index:1;
 }
 
-.img-triangle { 
+.img-triangle {
 	cursor:pointer;
 	position: absolute;
 	left: 70px;
 	top: 70px;
 	z-index:2
+}
+
+.img-boy {
+	cursor:pointer;
+	position: absolute;
+	left: 100px;
+	top: 100px;
+	z-index:3
+}
+
+.img-cat {
+	cursor:pointer;
+	position: absolute;
+	left: 150px;
+	top: 150px;
+	z-index:4
+}
+
+.img-bird {
+	cursor:pointer;
+	position: absolute;
+	left: 150px;
+	top: 200px;
+	z-index:5
 }
